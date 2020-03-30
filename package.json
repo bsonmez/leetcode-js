@@ -1,0 +1,17 @@
+{
+  "name": "js-changelles",
+  "description": "Leetcode solutions in Javascript",
+  "author": "Burak Sonmez",
+  "scripts": {
+    "test": "yarn jest"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jest": "^23.8.2",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.8.2",
+    "jest": "^25.2.4"
+  }
+}
