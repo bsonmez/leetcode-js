@@ -1,0 +1,16 @@
+const { fizzBuzz } = require('../index');
+
+describe('Fizz Buzz', () => {
+  it('Should calcualte fizzbuzz', () => {
+    expect(fizzBuzz(15)).toMatchObject([
+      '1', '2',
+      'Fizz', '4',
+      'Buzz', 'Fizz',
+      '7', '8',
+      'Fizz', 'Buzz',
+      '11', 'Fizz',
+      '13', '14',
+      'FizzBuzz',
+    ]);
+  });
+});
