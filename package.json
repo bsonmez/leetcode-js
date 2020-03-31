@@ -3,7 +3,7 @@
   "description": "Leetcode solutions in Javascript",
   "author": "Burak Sonmez",
   "scripts": {
-    "test": "yarn jest"
+    "t": "yarn jest"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
