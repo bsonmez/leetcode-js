@@ -1,7 +1,15 @@
 {
   "name": "js-changelles",
   "description": "Leetcode solutions in Javascript",
-  "author": "Burak Sonmez",
+  "author": "Burak Sonmez <buraksonmez@hotmail.com.tr>",
+  "keywords": ["leetcode", "solutions", "problems","javascript"],
+  "license": "MIT",
+  "version":"0.0.1",
+  "repository": {
+    "url": "https://github.com/bsonmez/js-challanges",
+    "type": "git"
+  },
+  "bugs": "https://github.com/bsonmez/js-challanges/issues",
   "scripts": {
     "t": "yarn jest",
     "files":"cd utils && node get-files.js"
@@ -9,10 +17,10 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.1.0",
-    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-jest": "^23.8.2",
-    "eslint-plugin-jsx-a11y": "^6.0.3",
-    "eslint-plugin-react": "^7.8.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
     "jest": "^25.2.4"
   }
 }
