@@ -34,6 +34,8 @@ yarn t
 
 - [contains-duplicate](https://github.com/bsonmez/js-challanges/tree/master/src/contains-duplicate)
 
+- [count-primes](https://github.com/bsonmez/js-challanges/tree/master/src/count-primes)
+
 - [detect-capital-use](https://github.com/bsonmez/js-challanges/tree/master/src/detect-capital-use)
 
 - [distribute-candies](https://github.com/bsonmez/js-challanges/tree/master/src/distribute-candies)
