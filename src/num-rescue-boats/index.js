@@ -13,7 +13,4 @@ const numRescueBoats = function (people, limit) {
   return boats;
 };
 
-console.log(numRescueBoats([3, 2, 2, 1], 3));
-
-
 module.exports = { numRescueBoats };
