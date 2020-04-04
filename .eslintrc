@@ -13,6 +13,7 @@
     "class-methods-use-this": "off",
     "arrow-body-style": "off",
     "no-loop-func": "off",
-    "no-restricted-syntax":"off"
+    "no-restricted-syntax":"off",
+    "prefer-const":"off"
   }
 }
