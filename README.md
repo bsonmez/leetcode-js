@@ -44,6 +44,8 @@ yarn t
 
 - [filter-restaurants](https://github.com/bsonmez/js-challanges/tree/master/src/filter-restaurants)
 
+- [find-lucky](https://github.com/bsonmez/js-challanges/tree/master/src/find-lucky)
+
 - [find-relative-ranks](https://github.com/bsonmez/js-challanges/tree/master/src/find-relative-ranks)
 
 - [fizz-buzz](https://github.com/bsonmez/js-challanges/tree/master/src/fizz-buzz)
@@ -72,6 +74,8 @@ yarn t
 
 - [num-rescue-boats](https://github.com/bsonmez/js-challanges/tree/master/src/num-rescue-boats)
 
+- [pascals-triangle](https://github.com/bsonmez/js-challanges/tree/master/src/pascals-triangle)
+
 - [plus-one](https://github.com/bsonmez/js-challanges/tree/master/src/plus-one)
 
 - [power-of-three](https://github.com/bsonmez/js-challanges/tree/master/src/power-of-three)
@@ -89,6 +93,8 @@ yarn t
 - [rotate-array](https://github.com/bsonmez/js-challanges/tree/master/src/rotate-array)
 
 - [single-number](https://github.com/bsonmez/js-challanges/tree/master/src/single-number)
+
+- [sorted-squares](https://github.com/bsonmez/js-challanges/tree/master/src/sorted-squares)
 
 - [sum-of-two-integers](https://github.com/bsonmez/js-challanges/tree/master/src/sum-of-two-integers)
 
