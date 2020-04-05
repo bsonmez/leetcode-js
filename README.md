@@ -1,4 +1,4 @@
-# JavaScript Challanges
+# LeetCode Solutions in JavaScript
 
 ![starts](https://img.shields.io/github/stars/bsonmez/js-challanges)
 ![license](https://img.shields.io/github/license/bsonmez/js-challanges)
