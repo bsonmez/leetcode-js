@@ -76,6 +76,8 @@ yarn t
 
 - [pascals-triangle](https://github.com/bsonmez/js-challanges/tree/master/src/pascals-triangle)
 
+- [pascals-triangle-ii](https://github.com/bsonmez/js-challanges/tree/master/src/pascals-triangle-ii)
+
 - [plus-one](https://github.com/bsonmez/js-challanges/tree/master/src/plus-one)
 
 - [power-of-three](https://github.com/bsonmez/js-challanges/tree/master/src/power-of-three)
