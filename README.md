@@ -36,6 +36,8 @@ yarn t
 
 - [count-primes](https://github.com/bsonmez/js-challanges/tree/master/src/count-primes)
 
+- [create-target-array](https://github.com/bsonmez/js-challanges/tree/master/src/create-target-array)
+
 - [detect-capital-use](https://github.com/bsonmez/js-challanges/tree/master/src/detect-capital-use)
 
 - [distribute-candies](https://github.com/bsonmez/js-challanges/tree/master/src/distribute-candies)
