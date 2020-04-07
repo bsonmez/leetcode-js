@@ -34,6 +34,8 @@ yarn t
 
 - [contains-duplicate](https://github.com/bsonmez/js-challanges/tree/master/src/contains-duplicate)
 
+- [count-characters](https://github.com/bsonmez/js-challanges/tree/master/src/count-characters)
+
 - [count-primes](https://github.com/bsonmez/js-challanges/tree/master/src/count-primes)
 
 - [create-target-array](https://github.com/bsonmez/js-challanges/tree/master/src/create-target-array)
