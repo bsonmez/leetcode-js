@@ -8,20 +8,24 @@
  * @param {number} n
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
-const merge = function (nums1, m, nums2, n) {
-  let len = m + n;
-  m -= 1;
-  n -= 1;
 
-  while (len -= 1) {
-    if (n < 0 || nums1[m] > nums2[n]) {
-      nums1[len] = nums1[m--];
+const merge = function (nums1, m, nums2, n) {
+  let i = 0;
+  let j = 0;
+  while (j < n) {
+    if (i < m && nums1[i] <= nums2[j]) {
+      i++;
     } else {
-      nums1[len] = nums2[n--];
+      for (let k = nums1.length - 1; k > i; k--) {
+        nums1[k] = nums1[k - 1];
+      }
+      nums1[i] = nums2[j];
+      j++;
+      i++;
+      m++;
     }
   }
   return nums1;
 };
-
 
 module.exports = { merge };
