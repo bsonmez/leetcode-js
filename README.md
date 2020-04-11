@@ -68,6 +68,8 @@ yarn t
 
 - [longest-common-prefix](https://github.com/bsonmez/js-challanges/tree/master/src/longest-common-prefix)
 
+- [lucky-numbers](https://github.com/bsonmez/js-challanges/tree/master/src/lucky-numbers)
+
 - [majortiy-element](https://github.com/bsonmez/js-challanges/tree/master/src/majortiy-element)
 
 - [merge-sorted-array](https://github.com/bsonmez/js-challanges/tree/master/src/merge-sorted-array)
