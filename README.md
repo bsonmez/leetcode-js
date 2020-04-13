@@ -92,6 +92,8 @@ yarn t
 
 - [remove-duplicates](https://github.com/bsonmez/js-challanges/tree/master/src/remove-duplicates)
 
+- [remove-duplicates-II](https://github.com/bsonmez/js-challanges/tree/master/src/remove-duplicates-II)
+
 - [remove-duplicates-string](https://github.com/bsonmez/js-challanges/tree/master/src/remove-duplicates-string)
 
 - [reverse-integer](https://github.com/bsonmez/js-challanges/tree/master/src/reverse-integer)
