@@ -106,6 +106,8 @@ yarn t
 
 - [sorted-squares](https://github.com/bsonmez/js-challanges/tree/master/src/sorted-squares)
 
+- [string-matching](https://github.com/bsonmez/js-challanges/tree/master/src/string-matching)
+
 - [sum-of-two-integers](https://github.com/bsonmez/js-challanges/tree/master/src/sum-of-two-integers)
 
 - [three-sum](https://github.com/bsonmez/js-challanges/tree/master/src/three-sum)
