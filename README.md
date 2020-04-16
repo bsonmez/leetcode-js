@@ -54,6 +54,8 @@ yarn t
 
 - [fizz-buzz](https://github.com/bsonmez/js-challanges/tree/master/src/fizz-buzz)
 
+- [gcd-of-strings](https://github.com/bsonmez/js-challanges/tree/master/src/gcd-of-strings)
+
 - [has-path-sum](https://github.com/bsonmez/js-challanges/tree/master/src/has-path-sum)
 
 - [is-happy](https://github.com/bsonmez/js-challanges/tree/master/src/is-happy)
