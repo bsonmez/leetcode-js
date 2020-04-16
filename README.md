@@ -24,6 +24,8 @@ yarn t
 
 - [array-to-pair](https://github.com/bsonmez/js-challanges/tree/master/src/array-to-pair)
 
+- [buddy-strings](https://github.com/bsonmez/js-challanges/tree/master/src/buddy-strings)
+
 - [check-possibility](https://github.com/bsonmez/js-challanges/tree/master/src/check-possibility)
 
 - [check-record](https://github.com/bsonmez/js-challanges/tree/master/src/check-record)
