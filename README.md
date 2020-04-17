@@ -76,6 +76,8 @@ yarn t
 
 - [majortiy-element](https://github.com/bsonmez/js-challanges/tree/master/src/majortiy-element)
 
+- [max-sub-array](https://github.com/bsonmez/js-challanges/tree/master/src/max-sub-array)
+
 - [merge-sorted-array](https://github.com/bsonmez/js-challanges/tree/master/src/merge-sorted-array)
 
 - [missing-number](https://github.com/bsonmez/js-challanges/tree/master/src/missing-number)
