@@ -3,7 +3,6 @@
 ![starts](https://img.shields.io/github/stars/bsonmez/js-challanges)
 ![license](https://img.shields.io/github/license/bsonmez/js-challanges)
 ![fork](https://img.shields.io/github/forks/bsonmez/js-challanges)
-![Generic badge](https://img.shields.io/badge/version-0.0.1-green.svg)
 
 JavaScript Solutions to problems on LeetCode by using Jest.
 
