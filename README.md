@@ -6,12 +6,17 @@
 
 JavaScript Solutions to problems on LeetCode by using Jest.
 
-You can easily follow
+## Install
+
 ```
 git clone https://github.com/bsonmez/js-challanges.git
 
 cd js-challanges && yarn
+```
 
+## Usage
+
+```
 yarn t
 ```
 
