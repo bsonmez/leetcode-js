@@ -3,5 +3,7 @@ node_modules
 .next
 yarn.lock
 .DS_Store
-utils
+utils/get-files.js
+utils/files.txt
+
 coverage
