@@ -14,10 +14,22 @@ yarn t linked-list
 
 - [x] append
 - [ ] prepend
-- [ ] delete
+- [x] delete
 - [ ] find
 - [ ] deleteTail
 - [ ] deleteHead
+
+## Usage
+
+```js
+const linkedList = new LinkedList();
+
+linkedList.append(1); // 1
+linkedList.append(2); // 1->2
+linkedList.append(6); // 1->2->6
+
+linkedList.delete(2); // 1->6
+```
 
 ## References
 
