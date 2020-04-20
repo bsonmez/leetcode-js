@@ -46,6 +46,8 @@ yarn t
 
 - [create-target-array](https://github.com/bsonmez/leetcode-js/tree/master/src/create-target-array)
 
+- [delete-duplicates](https://github.com/bsonmez/leetcode-js/tree/master/src/delete-duplicates)
+
 - [detect-capital-use](https://github.com/bsonmez/leetcode-js/tree/master/src/detect-capital-use)
 
 - [distribute-candies](https://github.com/bsonmez/leetcode-js/tree/master/src/distribute-candies)
@@ -100,6 +102,8 @@ yarn t
 
 - [queue-using-stacks](https://github.com/bsonmez/leetcode-js/tree/master/src/queue-using-stacks)
 
+- [relative-sort-array](https://github.com/bsonmez/leetcode-js/tree/master/src/relative-sort-array)
+
 - [remove-duplicates](https://github.com/bsonmez/leetcode-js/tree/master/src/remove-duplicates)
 
 - [remove-duplicates-II](https://github.com/bsonmez/leetcode-js/tree/master/src/remove-duplicates-II)
@@ -123,6 +127,8 @@ yarn t
 - [three-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/three-sum)
 
 - [to-goat-latin](https://github.com/bsonmez/leetcode-js/tree/master/src/to-goat-latin)
+
+- [tribonacci](https://github.com/bsonmez/leetcode-js/tree/master/src/tribonacci)
 
 - [two-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/two-sum)
 
