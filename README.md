@@ -58,6 +58,8 @@ yarn t
 
 - [find-lucky](https://github.com/bsonmez/leetcode-js/tree/master/src/find-lucky)
 
+- [find-median-sorted-arrays](https://github.com/bsonmez/leetcode-js/tree/master/src/find-median-sorted-arrays)
+
 - [find-relative-ranks](https://github.com/bsonmez/leetcode-js/tree/master/src/find-relative-ranks)
 
 - [fizz-buzz](https://github.com/bsonmez/leetcode-js/tree/master/src/fizz-buzz)
