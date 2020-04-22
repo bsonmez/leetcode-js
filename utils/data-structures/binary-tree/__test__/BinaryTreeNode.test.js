@@ -23,7 +23,7 @@ describe('Binary Tree Node', () => {
     expect(rootNode.right.value).toBe(15);
   });
 
-  it('should return nodes in array in order', () => {
+  it('should return nodes in array and string in order', () => {
     const rootNode = new BinaryTreeNode(5);
     const leftNode = new BinaryTreeNode(10);
     const rightNode = new BinaryTreeNode(15);
@@ -39,5 +39,6 @@ describe('Binary Tree Node', () => {
     expect(rootNode.right.value).toBe(15);
 
     expect(rootNode.orderInArray()).toEqual([20, 10, 5, 15]);
+    expect(rootNode.toString()).toBe('20,10,5,15');
   });
 });

@@ -83,6 +83,10 @@ class BinaryTreeNode {
 
     return tree;
   }
+
+  toString() {
+    return this.orderInArray().toString();
+  }
 }
 
 
