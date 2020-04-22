@@ -20,6 +20,14 @@ cd leetcode-js && yarn
 yarn t
 ```
 
+## Utils
+
+### Data Structures
+
+- [Binary Tree](https://github.com/bsonmez/leetcode-js/tree/master/utils/data-structures/binary-tree)
+
+- [Linked List](https://github.com/bsonmez/leetcode-js/tree/master/utils/data-structures/linked-list)
+
 ## Problems
 
 - [add-digits](https://github.com/bsonmez/leetcode-js/tree/master/src/add-digits)
