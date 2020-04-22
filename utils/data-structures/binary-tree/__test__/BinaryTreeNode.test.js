@@ -22,4 +22,22 @@ describe('Binary Tree Node', () => {
     expect(rootNode.left.value).toBe(10);
     expect(rootNode.right.value).toBe(15);
   });
+
+  it('should return nodes in array in order', () => {
+    const rootNode = new BinaryTreeNode(5);
+    const leftNode = new BinaryTreeNode(10);
+    const rightNode = new BinaryTreeNode(15);
+    const childLeft = new BinaryTreeNode(20);
+
+    rootNode.setLeft(leftNode).setRight(rightNode);
+
+    leftNode.setLeft(childLeft);
+
+    expect(rootNode.value).toBe(5);
+    expect(rootNode.left.value).toBe(10);
+    expect(rootNode.left.left.value).toBe(20);
+    expect(rootNode.right.value).toBe(15);
+
+    expect(rootNode.orderInArray()).toEqual([20, 10, 5, 15]);
+  });
 });

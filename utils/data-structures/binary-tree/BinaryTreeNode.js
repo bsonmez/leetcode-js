@@ -60,6 +60,29 @@ class BinaryTreeNode {
 
     return this;
   }
+
+  /**
+   * Returns all tree node values in order
+   * @return {*[]}
+   */
+  orderInArray() {
+    let tree = [];
+
+    // recursively push left nodes
+    if (this.left) {
+      tree = tree.concat(this.left.orderInArray());
+    }
+
+    // push value of the node
+    tree.push(this.value);
+
+    // recursively push right nodes
+    if (this.right) {
+      tree = tree.concat(this.right.orderInArray());
+    }
+
+    return tree;
+  }
 }
 
 
