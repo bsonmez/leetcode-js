@@ -94,6 +94,8 @@ yarn t
 
 - [majortiy-element](https://github.com/bsonmez/leetcode-js/tree/master/src/majortiy-element)
 
+- [max-depth](https://github.com/bsonmez/leetcode-js/tree/master/src/max-depth)
+
 - [max-sub-array](https://github.com/bsonmez/leetcode-js/tree/master/src/max-sub-array)
 
 - [merge-sorted-array](https://github.com/bsonmez/leetcode-js/tree/master/src/merge-sorted-array)
