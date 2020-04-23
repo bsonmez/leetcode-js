@@ -82,6 +82,8 @@ yarn t
 
 - [is-palindrome-linkedList](https://github.com/bsonmez/leetcode-js/tree/master/src/is-palindrome-linkedList)
 
+- [is-symmetric](https://github.com/bsonmez/leetcode-js/tree/master/src/is-symmetric)
+
 - [keyboard-row](https://github.com/bsonmez/leetcode-js/tree/master/src/keyboard-row)
 
 - [length-of-last-word](https://github.com/bsonmez/leetcode-js/tree/master/src/length-of-last-word)
