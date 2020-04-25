@@ -84,6 +84,8 @@ yarn t
 
 - [is-symmetric](https://github.com/bsonmez/leetcode-js/tree/master/src/is-symmetric)
 
+- [is-valid](https://github.com/bsonmez/leetcode-js/tree/master/src/is-valid)
+
 - [keyboard-row](https://github.com/bsonmez/leetcode-js/tree/master/src/keyboard-row)
 
 - [length-of-last-word](https://github.com/bsonmez/leetcode-js/tree/master/src/length-of-last-word)
@@ -99,6 +101,8 @@ yarn t
 - [max-sub-array](https://github.com/bsonmez/leetcode-js/tree/master/src/max-sub-array)
 
 - [merge-sorted-array](https://github.com/bsonmez/leetcode-js/tree/master/src/merge-sorted-array)
+
+- [min-depth](https://github.com/bsonmez/leetcode-js/tree/master/src/min-depth)
 
 - [missing-number](https://github.com/bsonmez/leetcode-js/tree/master/src/missing-number)
 
