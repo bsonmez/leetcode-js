@@ -74,6 +74,8 @@ yarn t
 
 - [gcd-of-strings](https://github.com/bsonmez/leetcode-js/tree/master/src/gcd-of-strings)
 
+- [generate-parenthesis](https://github.com/bsonmez/leetcode-js/tree/master/src/generate-parenthesis)
+
 - [has-path-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/has-path-sum)
 
 - [is-happy](https://github.com/bsonmez/leetcode-js/tree/master/src/is-happy)
