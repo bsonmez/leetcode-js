@@ -44,6 +44,8 @@ yarn t
 
 - [climb-stairs](https://github.com/bsonmez/leetcode-js/tree/master/src/climb-stairs)
 
+- [combination-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/combination-sum)
+
 - [compress](https://github.com/bsonmez/leetcode-js/tree/master/src/compress)
 
 - [contains-duplicate](https://github.com/bsonmez/leetcode-js/tree/master/src/contains-duplicate)
