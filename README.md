@@ -122,6 +122,8 @@ yarn t
 
 - [pascals-triangle-ii](https://github.com/bsonmez/leetcode-js/tree/master/src/pascals-triangle-ii)
 
+- [permute](https://github.com/bsonmez/leetcode-js/tree/master/src/permute)
+
 - [plus-one](https://github.com/bsonmez/leetcode-js/tree/master/src/plus-one)
 
 - [power-of-three](https://github.com/bsonmez/leetcode-js/tree/master/src/power-of-three)
