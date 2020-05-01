@@ -110,6 +110,8 @@ yarn t
 
 - [merge-sorted-array](https://github.com/bsonmez/leetcode-js/tree/master/src/merge-sorted-array)
 
+- [merge-two-lists](https://github.com/bsonmez/leetcode-js/tree/master/src/merge-two-lists)
+
 - [min-depth](https://github.com/bsonmez/leetcode-js/tree/master/src/min-depth)
 
 - [missing-number](https://github.com/bsonmez/leetcode-js/tree/master/src/missing-number)
