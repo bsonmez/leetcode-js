@@ -150,6 +150,8 @@ yarn t
 
 - [sorted-squares](https://github.com/bsonmez/leetcode-js/tree/master/src/sorted-squares)
 
+- [strStr](https://github.com/bsonmez/leetcode-js/tree/master/src/strStr)
+
 - [string-matching](https://github.com/bsonmez/leetcode-js/tree/master/src/string-matching)
 
 - [sum-of-two-integers](https://github.com/bsonmez/leetcode-js/tree/master/src/sum-of-two-integers)
