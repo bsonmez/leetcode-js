@@ -140,6 +140,8 @@ yarn t
 
 - [remove-duplicates-string](https://github.com/bsonmez/leetcode-js/tree/master/src/remove-duplicates-string)
 
+- [repeated-substring-pattern](https://github.com/bsonmez/leetcode-js/tree/master/src/repeated-substring-pattern)
+
 - [reverse-integer](https://github.com/bsonmez/leetcode-js/tree/master/src/reverse-integer)
 
 - [reverse-string](https://github.com/bsonmez/leetcode-js/tree/master/src/reverse-string)
