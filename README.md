@@ -114,6 +114,8 @@ yarn t
 
 - [min-depth](https://github.com/bsonmez/leetcode-js/tree/master/src/min-depth)
 
+- [min-path-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/min-path-sum)
+
 - [missing-number](https://github.com/bsonmez/leetcode-js/tree/master/src/missing-number)
 
 - [my-sqrt](https://github.com/bsonmez/leetcode-js/tree/master/src/my-sqrt)
