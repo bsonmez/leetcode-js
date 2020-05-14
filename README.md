@@ -36,6 +36,8 @@ yarn t
 
 - [array-to-pair](https://github.com/bsonmez/leetcode-js/tree/master/src/array-to-pair)
 
+- [backspace-compare](https://github.com/bsonmez/leetcode-js/tree/master/src/backspace-compare)
+
 - [buddy-strings](https://github.com/bsonmez/leetcode-js/tree/master/src/buddy-strings)
 
 - [check-possibility](https://github.com/bsonmez/leetcode-js/tree/master/src/check-possibility)
