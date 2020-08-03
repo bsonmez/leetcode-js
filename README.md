@@ -174,6 +174,8 @@ yarn t
 
 - [two-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/two-sum)
 
+- [two-sum-ii](https://github.com/bsonmez/leetcode-js/tree/master/src/two-sum-ii)
+
 - [ugly-number](https://github.com/bsonmez/leetcode-js/tree/master/src/ugly-number)
 
 - [valid-anagram](https://github.com/bsonmez/leetcode-js/tree/master/src/valid-anagram)
