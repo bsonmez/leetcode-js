@@ -34,6 +34,8 @@ yarn t
 
 - [add-to-array-form](https://github.com/bsonmez/leetcode-js/tree/master/src/add-to-array-form)
 
+- [add-two-numbers](https://github.com/bsonmez/leetcode-js/tree/master/src/add-two-numbers)
+
 - [array-to-pair](https://github.com/bsonmez/leetcode-js/tree/master/src/array-to-pair)
 
 - [backspace-compare](https://github.com/bsonmez/leetcode-js/tree/master/src/backspace-compare)
