@@ -1,9 +1,9 @@
-const LinkedList = require('../../../utils/data-structures/linked-list');
+const LinkedList = require("../../../utils/data-structures/linked-list");
 
-const { deleteDuplicates } = require('../index');
+const { deleteDuplicates } = require("../index");
 
-describe('Delete Duplicates', () => {
-  it('Should create a linked list and delete duplicates', () => {
+describe("Delete Duplicates", () => {
+  it("Should create a linked list and delete duplicates", () => {
     const linkedList = new LinkedList();
 
     linkedList.append(1);

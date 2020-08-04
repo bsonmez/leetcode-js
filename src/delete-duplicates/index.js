@@ -45,5 +45,4 @@ const deleteDuplicates = function (head) {
   return nodeArrays();
 };
 
-
 module.exports = { deleteDuplicates };
