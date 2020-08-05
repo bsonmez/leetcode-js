@@ -156,6 +156,8 @@ yarn t
 
 - [reverse-string](https://github.com/bsonmez/leetcode-js/tree/master/src/reverse-string)
 
+- [roman-to-int](https://github.com/bsonmez/leetcode-js/tree/master/src/roman-to-int)
+
 - [rotate-array](https://github.com/bsonmez/leetcode-js/tree/master/src/rotate-array)
 
 - [single-number](https://github.com/bsonmez/leetcode-js/tree/master/src/single-number)
