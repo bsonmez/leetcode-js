@@ -120,6 +120,8 @@ yarn t
 
 - [min-path-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/min-path-sum)
 
+- [min-remove-to-make-valid](https://github.com/bsonmez/leetcode-js/tree/master/src/min-remove-to-make-valid)
+
 - [missing-number](https://github.com/bsonmez/leetcode-js/tree/master/src/missing-number)
 
 - [my-sqrt](https://github.com/bsonmez/leetcode-js/tree/master/src/my-sqrt)
