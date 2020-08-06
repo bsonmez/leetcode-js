@@ -1,4 +1,3 @@
-
 /**
  * @param {number[]} nums
  * @return {number[][]}
@@ -37,4 +36,4 @@ const threeSum = function (nums) {
   return resultArr;
 };
 
-module.exports = { threeSum };
+module.exports = { threeSum };

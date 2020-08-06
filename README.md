@@ -174,6 +174,8 @@ yarn t
 
 - [three-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/three-sum)
 
+- [three-sum-closest](https://github.com/bsonmez/leetcode-js/tree/master/src/three-sum-closest)
+
 - [to-goat-latin](https://github.com/bsonmez/leetcode-js/tree/master/src/to-goat-latin)
 
 - [tribonacci](https://github.com/bsonmez/leetcode-js/tree/master/src/tribonacci)
