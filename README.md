@@ -172,6 +172,8 @@ yarn t
 
 - [sum-of-two-integers](https://github.com/bsonmez/leetcode-js/tree/master/src/sum-of-two-integers)
 
+- [swap-pairs](https://github.com/bsonmez/leetcode-js/tree/master/src/swap-pairs)
+
 - [three-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/three-sum)
 
 - [three-sum-closest](https://github.com/bsonmez/leetcode-js/tree/master/src/three-sum-closest)
