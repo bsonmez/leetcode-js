@@ -1,5 +1,5 @@
-const LinkedListNode = require('./node');
-const Comparator = require('../../comparator');
+const LinkedListNode = require("./node");
+const Comparator = require("../../comparator");
 
 class LinkedList {
   constructor() {
@@ -45,7 +45,7 @@ class LinkedList {
 
     if (currentNode !== null) {
       while (currentNode.next) {
-      // If the next node deleted then assign it to be next next node
+        // If the next node deleted then assign it to be next next node
         if (this.compare.equal(currentNode.next.value, value)) {
           deletedNode = currentNode.next;
           currentNode.next = currentNode.next.next;
@@ -60,10 +60,8 @@ class LinkedList {
       this.tail = currentNode;
     }
 
-
     return deletedNode;
   }
-
 
   nodeArrays() {
     const nodeArray = [];
@@ -82,9 +80,10 @@ class LinkedList {
   }
 
   toString(callback) {
-    return this.nodeArrays().map((node) => node.toString(callback)).toString();
+    return this.nodeArrays()
+      .map((node) => node.toString(callback))
+      .toString();
   }
 }
-
 
 module.exports = LinkedList;
