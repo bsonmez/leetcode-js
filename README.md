@@ -162,6 +162,8 @@ yarn t
 
 - [rotate-array](https://github.com/bsonmez/leetcode-js/tree/master/src/rotate-array)
 
+- [rotate-right](https://github.com/bsonmez/leetcode-js/tree/master/src/rotate-right)
+
 - [single-number](https://github.com/bsonmez/leetcode-js/tree/master/src/single-number)
 
 - [sorted-squares](https://github.com/bsonmez/leetcode-js/tree/master/src/sorted-squares)
