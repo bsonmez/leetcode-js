@@ -164,6 +164,10 @@ yarn t
 
 - [rotate-right](https://github.com/bsonmez/leetcode-js/tree/master/src/rotate-right)
 
+- [running-sum](https://github.com/bsonmez/leetcode-js/tree/master/src/running-sum)
+
+- [shuffle](https://github.com/bsonmez/leetcode-js/tree/master/src/shuffle)
+
 - [single-number](https://github.com/bsonmez/leetcode-js/tree/master/src/single-number)
 
 - [sorted-squares](https://github.com/bsonmez/leetcode-js/tree/master/src/sorted-squares)
