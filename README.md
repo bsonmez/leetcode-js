@@ -58,9 +58,13 @@ yarn t
 
 - [count-characters](https://github.com/bsonmez/leetcode-js/tree/master/src/count-characters)
 
+- [count-negatives](https://github.com/bsonmez/leetcode-js/tree/master/src/count-negatives)
+
 - [count-primes](https://github.com/bsonmez/leetcode-js/tree/master/src/count-primes)
 
 - [create-target-array](https://github.com/bsonmez/leetcode-js/tree/master/src/create-target-array)
+
+- [defang-IP-addr](https://github.com/bsonmez/leetcode-js/tree/master/src/defang-IP-addr)
 
 - [delete-duplicates](https://github.com/bsonmez/leetcode-js/tree/master/src/delete-duplicates)
 
@@ -96,7 +100,11 @@ yarn t
 
 - [is-valid](https://github.com/bsonmez/leetcode-js/tree/master/src/is-valid)
 
+- [k-length-apart](https://github.com/bsonmez/leetcode-js/tree/master/src/k-length-apart)
+
 - [keyboard-row](https://github.com/bsonmez/leetcode-js/tree/master/src/keyboard-row)
+
+- [largest-number](https://github.com/bsonmez/leetcode-js/tree/master/src/largest-number)
 
 - [length-of-last-word](https://github.com/bsonmez/leetcode-js/tree/master/src/length-of-last-word)
 
@@ -110,6 +118,10 @@ yarn t
 
 - [max-depth](https://github.com/bsonmez/leetcode-js/tree/master/src/max-depth)
 
+- [max-profit](https://github.com/bsonmez/leetcode-js/tree/master/src/max-profit)
+
+- [max-profit-ii](https://github.com/bsonmez/leetcode-js/tree/master/src/max-profit-ii)
+
 - [max-sub-array](https://github.com/bsonmez/leetcode-js/tree/master/src/max-sub-array)
 
 - [merge-sorted-array](https://github.com/bsonmez/leetcode-js/tree/master/src/merge-sorted-array)
@@ -122,9 +134,15 @@ yarn t
 
 - [min-remove-to-make-valid](https://github.com/bsonmez/leetcode-js/tree/master/src/min-remove-to-make-valid)
 
+- [min-time-to-visit-all-points](https://github.com/bsonmez/leetcode-js/tree/master/src/min-time-to-visit-all-points)
+
 - [missing-number](https://github.com/bsonmez/leetcode-js/tree/master/src/missing-number)
 
+- [move-zeroes](https://github.com/bsonmez/leetcode-js/tree/master/src/move-zeroes)
+
 - [my-sqrt](https://github.com/bsonmez/leetcode-js/tree/master/src/my-sqrt)
+
+- [num-identical-pairs](https://github.com/bsonmez/leetcode-js/tree/master/src/num-identical-pairs)
 
 - [num-rescue-boats](https://github.com/bsonmez/leetcode-js/tree/master/src/num-rescue-boats)
 
@@ -148,11 +166,15 @@ yarn t
 
 - [remove-duplicates-string](https://github.com/bsonmez/leetcode-js/tree/master/src/remove-duplicates-string)
 
+- [remove-element](https://github.com/bsonmez/leetcode-js/tree/master/src/remove-element)
+
 - [remove-nth-from-end](https://github.com/bsonmez/leetcode-js/tree/master/src/remove-nth-from-end)
 
 - [repeated-string-match](https://github.com/bsonmez/leetcode-js/tree/master/src/repeated-string-match)
 
 - [repeated-substring-pattern](https://github.com/bsonmez/leetcode-js/tree/master/src/repeated-substring-pattern)
+
+- [restore-string](https://github.com/bsonmez/leetcode-js/tree/master/src/restore-string)
 
 - [reverse-integer](https://github.com/bsonmez/leetcode-js/tree/master/src/reverse-integer)
 
@@ -169,6 +191,8 @@ yarn t
 - [shuffle](https://github.com/bsonmez/leetcode-js/tree/master/src/shuffle)
 
 - [single-number](https://github.com/bsonmez/leetcode-js/tree/master/src/single-number)
+
+- [smaller-numbers-than-current](https://github.com/bsonmez/leetcode-js/tree/master/src/smaller-numbers-than-current)
 
 - [sorted-squares](https://github.com/bsonmez/leetcode-js/tree/master/src/sorted-squares)
 
